@@ -44,6 +44,13 @@ header > p > a {
     font-weight: bolder;
 }
 
+header#img01 {
+    background-image: url('../imagens/background003.png');
+    background-position: center bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
 a:hover {
     text-decoration: underline;
 }
@@ -82,12 +89,12 @@ section.imagem {
 
 }
 
-section#img01 {
-    background-image: url('../imagens/background001.jpg');
+section#img02 {
+    background-image: url('../imagens/background005.png');
     background-position: right center;
 }
 
-section#img02 {
+section#img03 {
     background-image: url('../imagens/background002.jpg');
     background-position: right center;
 }
